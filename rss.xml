@@ -4,21 +4,21 @@
         <description><![CDATA[Jay Graves]]></description>
         <link>https://thegrid.ai/jay-graves/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 17:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 17:57:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jay-graves/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Builders]]></title>
+            <description><![CDATA[<article><h1>Builders</h1><p>This is my great-grandfather J.W. Graves.  I really don't know a thing about him, but that is a story for another day....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64286d86f8fd8d17a2cbebf8758e682645046a0c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jay-graves/builders/index.html</link>
+            <guid isPermaLink="false">73949604-ee20-4b51-b35b-7b704583b8d4</guid>
+            <pubDate>Sat, 13 Feb 2016 17:57:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Drone Selfie - With Gravelet Two]]></title>
             <description><![CDATA[<article><h1>Drone Selfie - With Gravelet Two</h1><p>First day of flying and first drone selfie type pic:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dbb981806057e83c13cbb7a3cdb74db77efd979.jpg"></article>]]></description>
             <link>https://thegrid.ai/jay-graves/drone-selfie-with-gravelet-two/index.html</link>
             <guid isPermaLink="false">fb487940-2352-49b1-885e-8cea0d1f81c7</guid>
             <pubDate>Sat, 13 Feb 2016 17:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Builders]]></title>
-            <description><![CDATA[<article><h1>Builders</h1><p>This is my great-grandfather J.W. Graves.  I really don't know a thing about him, but that is a story for another day....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64286d86f8fd8d17a2cbebf8758e682645046a0c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jay-graves/builders/index.html</link>
-            <guid isPermaLink="false">73949604-ee20-4b51-b35b-7b704583b8d4</guid>
-            <pubDate>Sat, 13 Feb 2016 17:43:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
