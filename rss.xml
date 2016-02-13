@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jay Graves]]></title>
+        <description><![CDATA[Jay Graves]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Feb 2016 17:43:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Builders]]></title>
+            <description><![CDATA[<article><h1>Builders</h1><p>This is my great-grandfather J.W. Graves.  I really don't know a thing about him, but that is a story for another day....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64286d86f8fd8d17a2cbebf8758e682645046a0c.jpg"></article>]]></description>
+            <link>undefinedbuilders/index.html</link>
+            <guid isPermaLink="false">73949604-ee20-4b51-b35b-7b704583b8d4</guid>
+            <pubDate>Sat, 13 Feb 2016 17:43:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
