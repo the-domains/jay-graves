@@ -2,12 +2,13 @@ name: Jay Graves
 favicon: null
 layout_spectrum: 0.20996870193630457
 typography_spectrum: 0.7653501806780696
+title: Builders
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-56292295-2
   facebook: null
   twitter: null
 opengraph:
